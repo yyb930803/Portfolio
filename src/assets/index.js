@@ -1,27 +1,22 @@
 import logo from './logo.png';
 
 // socials
-import facebook from './socials/facebook.png';
-import facebook1 from './socials/facebook (1).png';
 import github from './socials/github.png';
-import github1 from './socials/github (1).png';
 import linkedin from './socials/linkedin.png';
-import linkedin1 from './socials/linkedin (1).png';
-import twitter from './socials/twitter.png';
-import twitter1 from './socials/twitter (1).png';
-import instagram from './socials/instagram.png';
-import instagram1 from './socials/instagram (1).png';
+import skype from './socials/skype.png';
+import telegram from './socials/telegram.png';
+import discord from './socials/discord.png';
 
 // projects
-import tvshowbox from './projects/tvshow.png';
+import houdiniswap from './projects/houdiniswap.png';
 import guesstheword from './projects/guesstheword.png';
 import tictactoe from './projects/tictactoe.png';
 import mathmagician from './projects/mathmagician.png';
-import metricwebapp from './projects/metricswebapp.png';
+import nftmarketplace from './projects/nftmarketplace.png';
 import spacetravelers from './projects/spacetravelers.png';
-import recipeapp from './projects/recipeapp.png';
-import trackbudget from './projects/trackbudget.png';
-import carrental from './projects/carrental.png';
+import tendienft from './projects/tendienft.png';
+import inventory from './projects/inventory.png';
+import portfolio from './projects/portfolio.png';
 
 // carousel img
 import guesstheword1 from './carousels/guess the word screenshot 1.png';
@@ -33,29 +28,19 @@ import spacetravelers3 from './carousels/space travelers screenshot 3.png';
 import tictactoe1 from './carousels/tic tac toe screenshot 1.png';
 import tictactoe2 from './carousels/tic tac toe screenshot 2.png';
 import tictactoe3 from './carousels/tic tac toe screenshot 3.png';
-import tvshow1 from './carousels/tvshow screenshot 1.png';
-import tvshow2 from './carousels/tvshow screenshot 2.png';
-import tvshow3 from './carousels/tvshow screenshot 3.png';
-import metricswebapp1 from './carousels/metrics webapp screenshot 1.png';
-import metricswebapp2 from './carousels/metrics webapp screenshot 2.png';
-import recipeapp1 from './carousels/recipe app screenshot 1.png';
-import recipeapp2 from './carousels/recipe app screenshot 2.png';
-import recipeapp3 from './carousels/recipe app screenshot 3.png';
-import recipeapp4 from './carousels/recipe app screenshot 4.png';
-import recipeapp5 from './carousels/recipe app screenshot 5.png';
-import recipeapp6 from './carousels/recipe app screenshot 6.png';
-import trackbuget1 from './carousels/track budget screenshot 1.png';
-import trackbuget2 from './carousels/track budget screenshot 2.png';
-import trackbuget3 from './carousels/track budget screenshot 3.png';
-import trackbuget4 from './carousels/track budget screenshot 4.png';
-import trackbuget5 from './carousels/track budget screenshot 5.png';
-import carrental1 from './carousels/car rental screenshot 1.png';
-import carrental2 from './carousels/car rental screenshot 2.png';
-import carrental3 from './carousels/car rental screenshot 3.png';
-import carrental4 from './carousels/car rental screenshot 4.png';
-import carrental5 from './carousels/car rental screenshot 5.png';
-import carrental6 from './carousels/car rental screenshot 6.png';
-import carrental7 from './carousels/car rental screenshot 7.png';
+import houdiniswap1 from './carousels/houdiniswap1.png';
+import houdiniswap2 from './carousels/houdiniswap2.png';
+import nftmarketplace1 from './carousels/nftmarketplace1.png';
+import nftmarketplace2 from './carousels/nftmarketplace2.png';
+import nftmarketplace3 from './carousels/nftmarketplace3.png';
+import nftmarketplace4 from './carousels/nftmarketplace4.png';
+import tendienft1 from './carousels/tendienft1.png';
+import tendienft2 from './carousels/tendienft2.png';
+import tendienft3 from './carousels/tendienft3.png';
+import inventory1 from './carousels/inventory1.png';
+import portfolio1 from './carousels/portfolio1.png';
+import portfolio2 from './carousels/portfolio2.png';
+import portfolio3 from './carousels/portfolio3.png';
 
 // services
 import responsive from './services/responsive.gif';
@@ -65,5 +50,5 @@ import backend from './services/backend.png';
 import aiblock from './services/aiblock.png';
 
 export {
-  logo, facebook, instagram, github, linkedin, twitter, facebook1, instagram1, github1, twitter1, linkedin1, tvshowbox, guesstheword, tictactoe, mathmagician, metricwebapp, spacetravelers, recipeapp, trackbudget, carrental, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, tvshow1, tvshow2, tvshow3, metricswebapp1, metricswebapp2, recipeapp1, recipeapp2, recipeapp3, recipeapp4, recipeapp5, recipeapp6, trackbuget1, trackbuget2, trackbuget3, trackbuget4, trackbuget5, carrental1, carrental2, carrental3, carrental4, carrental5, carrental6, carrental7, responsive, react, fullstack, backend, aiblock,
+  logo, skype, discord, github, linkedin, telegram, houdiniswap, guesstheword, tictactoe, mathmagician, nftmarketplace, spacetravelers, tendienft, inventory, portfolio, guesstheword1, guesstheword2, guesstheword3, spacetravelers1, spacetravelers2, spacetravelers3, tictactoe1, tictactoe2, tictactoe3, houdiniswap1, houdiniswap2, nftmarketplace1, nftmarketplace2, nftmarketplace3, nftmarketplace4, tendienft1, tendienft2, tendienft3, inventory1, portfolio1, portfolio2, portfolio3, responsive, react, fullstack, backend, aiblock,
 };

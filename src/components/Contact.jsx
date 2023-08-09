@@ -68,7 +68,7 @@ const Contact = () => {
         <motion.form
           variants={slideIn('left', '', 0, 1)}
           onSubmit={handleSubmit}
-          action="https://formspree.io/f/mgeqgkdd"
+          action="https://formspree.io/f/mvojkgoj"
           method="post"
           className={style.form}
         >
@@ -108,12 +108,12 @@ const Contact = () => {
           </button>
         </motion.form>
         <motion.div variants={slideIn('right', '', 0, 1)} className={style.mapContainer}>
-          <MapContainer center={[16.799355, 96.154826]} zoom={13} scrollWheelZoom={false}>
+          <MapContainer center={[41.805331, 123.436498]} zoom={13} scrollWheelZoom={false}>
             <TileLayer
               url="https://stamen-tiles-{s}.a.ssl.fastly.net/toner-background/{z}/{x}/{y}{r}.png"
               attribution="© OpenStreetMap contributors"
             />
-            <Marker position={[16.799355, 96.154826]} icon={customIcon}>
+            <Marker position={[41.805331, 123.436498]} icon={customIcon}>
               <Popup>
                 Wanna have a virtual coffee?
                 {' '}
@@ -124,7 +124,7 @@ const Contact = () => {
             </Marker>
             <div className={style.info}>
               <p>Kang Li</p>
-              <p>Yangon, Myanmar</p>
+              <p>Shenyang, China</p>
             </div>
           </MapContainer>
         </motion.div>

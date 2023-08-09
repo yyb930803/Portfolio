@@ -78,6 +78,7 @@
 
 .icon,
 .icon_hover {
+  opacity: 0.8;
   width: 42px;
   height: 42px;
   border-radius: 10px;
@@ -102,8 +103,8 @@
 }
 
 .overlay:hover .icon {
-  opacity: 0;
-  transform: translate(100%, 0);
+  opacity: 1;
+  /* transform: translate(100%, 0); */
 }
 
 .overlay:hover .up_icon {

@@ -25,8 +25,7 @@ const Footer = () => (
     <div className={style.icon_container}>
       {social.map((social) => (
         <a key={social.id} href={social.url} target="_blank" className={style.overlay} rel="noreferrer">
-          <img className={style.icon_hover} src={social.icon} alt={social.name} />
-          <img className={style.icon} src={social.icon1} alt={social.name} />
+          <img className={style.icon} src={social.icon} alt={social.name} />
         </a>
       ))}
     </div>
