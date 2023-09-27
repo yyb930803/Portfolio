@@ -113,7 +113,7 @@ const Contact = () => {
               url="https://stamen-tiles-{s}.a.ssl.fastly.net/toner-background/{z}/{x}/{y}{r}.png"
               attribution="© OpenStreetMap contributors"
             />
-            <Marker position={[41.805331, 123.436498]} icon={customIcon}>
+            <Marker position={[33.8688, 151.2093]} icon={customIcon}>
               <Popup>
                 Wanna have a virtual coffee?
                 {' '}
@@ -124,7 +124,7 @@ const Contact = () => {
             </Marker>
             <div className={style.info}>
               <p>Harry Griesberg</p>
-              <p>Shenyang, China</p>
+              <p>Australia, Sydney</p>
             </div>
           </MapContainer>
         </motion.div>

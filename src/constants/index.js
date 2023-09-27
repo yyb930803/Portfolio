@@ -6,7 +6,7 @@ const social = [
   {
     id: 1,
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/kang-li-699ab8223/',
+    url: 'https://www.linkedin.com/in/harry-griesberg-bb786b4/',
     icon: linkedin,
   },
   {
