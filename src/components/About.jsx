@@ -13,7 +13,7 @@ const About = () => (
         <p className={style.text}>
           My name is
           {' '}
-          <a href="https://www.linkedin.com/in/kaungmyatkyaw/" target="_blank" className={style.link} rel="noreferrer">Kang Li</a>
+          <a href="https://www.linkedin.com/in/kaungmyatkyaw/" target="_blank" className={style.link} rel="noreferrer">Harry Griesberg</a>
           {' '}
           and I am a passionate software engineer specializing in delivering state-of-the-art software solutions in web development and blockchain space.
         </p>
@@ -25,7 +25,7 @@ const About = () => (
       </motion.div>
       <motion.div variants={slideIn('right', '', 0, 1)} className={style.img_container}>
         <div className={style.overlay} />
-        <img className={style.img} src={mypicture} alt="Kang Li" />
+        <img className={style.img} src={mypicture} alt="Harry Griesberg" />
       </motion.div>
     </div>
   </>
