@@ -186,7 +186,7 @@ const projects = [
     img: tendienft,
     carousel: [tendienft1, tendienft2, tendienft3],
     source_link: 'https://github.com/yyb930803/tendienftNFTv2-frontend',
-    live_link: 'https://tendienft-nftv2.netlify.app/',
+    live_link: 'https://tendie-nftv2.netlify.app/',
   },
   {
     id: 4,
