@@ -116,7 +116,7 @@ const Navbar = () => {
               </motion.a>
             </li>
           ))}
-          <li>
+          {/* <li>
             <motion.a
               variants={fadeIn('right', '', 1, 1)}
               initial="hidden"
@@ -130,7 +130,7 @@ const Navbar = () => {
               </span>
               <span className={`${style.resume} ${style.font}`}>Resume</span>
             </motion.a>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </div>
