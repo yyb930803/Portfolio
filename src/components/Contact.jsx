@@ -123,7 +123,7 @@ const Contact = () => {
               </Popup>
             </Marker>
             <div className={style.info}>
-              <p>Harry Griesberg</p>
+              <p>Kang Li</p>
               <p>Shenyang, China</p>
             </div>
           </MapContainer>

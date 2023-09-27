@@ -72,7 +72,7 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Harry Griesberg**
+👤 **Kang Li**
 
 - GitHub: [GitHub](https://github.com/Rhaegar121)
 - Twitter: [Twitter](https://twitter.com/Rhaegar121)

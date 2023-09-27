@@ -35,7 +35,7 @@ const Footer = () => (
         {' '}
         <span className={style.span}>©</span>
         {' '}
-        Harry Griesberg
+        Kang Li
       </a>
     </abbr>
   </div>
