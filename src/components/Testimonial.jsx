@@ -30,7 +30,7 @@ const Testimonial = () => (
           >
             <div className={style.header}>
               <FaQuoteLeft className={style.openquote} />
-              <img className={style.img} src={testimonial.image} alt="profile" />
+              {/* <img className={style.img} src={testimonial.image} alt="profile" /> */}
             </div>
             <p className={style.para}>{testimonial.text}</p>
             <div className={`${style.label} ${style.firstlabel}`}>
@@ -43,7 +43,7 @@ const Testimonial = () => (
                   )
                 </span>
               </p>
-              <abbr title="LinkedIn Profile">
+              {/* <abbr title="LinkedIn Profile">
                 <a
                   href={testimonial.linkedIn}
                   target="_blank"
@@ -53,7 +53,7 @@ const Testimonial = () => (
                 >
                   <FaLinkedinIn />
                 </a>
-              </abbr>
+              </abbr> */}
             </div>
           </div>
         </motion.div>
