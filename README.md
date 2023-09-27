@@ -64,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://rhbarry.me/)
+- [Live Demo Link](https://kangli.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,9 +74,9 @@
 
 👤 **Kang Li**
 
-- GitHub: [GitHub](https://github.com/Rhaegar121)
-- Twitter: [Twitter](https://twitter.com/Rhaegar121)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaungmyatkyaw/)
+- GitHub: [GitHub](https://github.com/yyb930803)
+- Twitter: [Twitter](https://twitter.com/GangLi23690)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kang-li-699ab8223/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
