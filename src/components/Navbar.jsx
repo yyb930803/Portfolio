@@ -59,7 +59,7 @@ const Navbar = () => {
               </a>
             </li>
           ))}
-          <li>
+          {/* <li>
             <a
               href="https://drive.google.com/file/d/1gienfnTWEgMC_R2P7t-JVSQC9L_4lLxv/view?usp=sharing"
               target=" blank"
@@ -68,7 +68,7 @@ const Navbar = () => {
               <span className={style.resume_hover}>Resume</span>
               <span className={style.resume}>Resume</span>
             </a>
-          </li>
+          </li> */}
         </ul>
 
         {/* hamburger menu */}
