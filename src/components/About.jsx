@@ -13,7 +13,7 @@ const About = () => (
         <p className={style.text}>
           My name is
           {' '}
-          <a href="https://www.linkedin.com/in/kaungmyatkyaw/" target="_blank" className={style.link} rel="noreferrer">Harry Griesberg</a>
+          <a href="" target="_blank" className={style.link} rel="noreferrer">Harry Griesberg</a>
           {' '}
           and I am a passionate software engineer specializing in delivering state-of-the-art software solutions in web development and blockchain space.
         </p>

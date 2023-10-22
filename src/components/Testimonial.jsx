@@ -60,7 +60,7 @@ const Testimonial = () => (
       ))}
     </div>
     <motion.div variants={fadeIn('', '', 0.15, 1)} className={style.recommendationsLink}>
-      <a href="https://www.linkedin.com/in/kaungmyatkyaw/details/recommendations/?detailScreenTabIndex=0" target="_blank" className={style.a} rel="noreferrer">More recommendations here</a>
+      <a href="" target="_blank" className={style.a} rel="noreferrer">More recommendations here</a>
     </motion.div>
   </div>
 );
